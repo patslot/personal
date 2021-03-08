@@ -12,3 +12,7 @@
   border: 1px solid #A0A0A0;
   margin-right: .5em;
 }
+
+.previewArticle{
+  @apply border-2, px-2
+}

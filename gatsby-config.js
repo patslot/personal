@@ -48,5 +48,8 @@ module.exports = {
       resolve: "gatsby-source-contentful",
       options: contentfulConfig,
     },
+    `gatsby-plugin-transition-link`,
+    `gatsby-plugin-sass`,
+    `gatsby-plugin-postcss`
   ],
 };
